@@ -1,4 +1,4 @@
-# Marcel Julien — AI Engineer · Full-Stack AI Systems
+AI Engineer · Full-Stack AI Systems
 
 > **15+ years** building production AI automation, agentic workflows, and end-to-end intelligent systems that actually ship.
 
