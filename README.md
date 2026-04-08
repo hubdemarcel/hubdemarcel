@@ -72,7 +72,7 @@ Full-stack engineer and systems architect specialising in production AI automati
 - Supported productisation of AI/ML-enabled geospatial intelligence into a subscription software offering.
 - Built financial/product modelling to align geospatial analytics with packaging, pricing, and KPI targets.
 
-### Platform Architect — [CANNATLAN.COM](https://cannatlan.com) *(B2C Marketplace)*
+### Platform Architect —  *(B2C Marketplace)*
 **2020 – Present**
 - Designed product architecture and end-to-end workflows for a B2C marketplace (vendor onboarding, validation, operations automation).
 - Created an automated content + education engine with **1,100+ articles** for organic growth.
