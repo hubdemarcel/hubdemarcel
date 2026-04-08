@@ -77,10 +77,6 @@ Full-stack engineer and systems architect specialising in production AI automati
 - Designed product architecture and end-to-end workflows for a B2C marketplace (vendor onboarding, validation, operations automation).
 - Created an automated content + education engine with **1,100+ articles** for organic growth.
 
-### CRM & Customer Operations Specialist — TELUS / Koodo *(Remote, Canada)*
-**2023 – 2025**
-- Operated enterprise CRM tooling (Salesforce, JIRA) for high-volume customer workflows and operational insights.
-
 ### Information Systems Architect — Secretaría de Agricultura, Gobierno de Jalisco
 **2019 – 2020**
 - Led information architecture and experience design for **SIAJ** (Sistema de Inteligencia del Agro en Jalisco) — a public intelligence platform combining data portal, ecosystem monitoring, and participatory modules. [Archive ↗](https://web.archive.org/web/20210614221114/http://www.siaj.mx/)
